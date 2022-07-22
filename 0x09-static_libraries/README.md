@@ -1,1 +1,1 @@
-readme for static libraries
+Readme for static lib
