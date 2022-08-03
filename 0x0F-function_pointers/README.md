@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is the readme file for Function pointers
 
 We compile c files using gcc, we use betty code style in writing our code
@@ -9,3 +10,6 @@ the code execute here are;
 3. Function that searches for an integer
 4. A program that performs simple operations a. 3-calc.h b. 3-op_functions.c c. 3-get_op_func.c d. 3-main.c
 5. A program that prints the opcodes of its own main function
+=======
+0x0f-function_pointers
+>>>>>>> 5ca0f6650307663c9e1fc9b9b7bcd17984cb189f
